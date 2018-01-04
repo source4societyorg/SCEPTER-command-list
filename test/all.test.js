@@ -9,7 +9,7 @@ test('listAllCommand has a command, usage, and description defined', () => {
 test('listAllCommand calls the command.listCommands method.', (done) => {
   const mockCommand = {
     listCommands: () => done()
-  };
+  }
 
   listAllCommand.callback([], null, mockCommand)
 })
