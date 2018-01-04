@@ -1,6 +1,6 @@
 {
   "name": "SCEPTER-command-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SCEPTER plugin command to list all installed commands",
   "main": "index.js",
   "repository": "https://github.com/source4societyorg/SCEPTER-command-list",
